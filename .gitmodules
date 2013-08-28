@@ -7,3 +7,15 @@
 [submodule "app/webroot/ckeditor"]
 	path = app/webroot/ckeditor
 	url = https://github.com/ckeditor/ckeditor-releases.git
+[submodule "app/Plugin/Search"]
+	path = app/Plugin/Search
+	url = https://github.com/CakeDC/search.git
+[submodule "app/Plugin/Users"]
+	path = app/Plugin/Users
+	url = https://github.com/CakeDC/users.git
+[submodule "app/Plugin/Utils"]
+	path = app/Plugin/Utils
+	url = https://github.com/CakeDC/utils.git
+[submodule "app/Plugin/HybridAuth"]
+	path = app/Plugin/HybridAuth
+	url = git://github.com/ADmad/CakePHP-HybridAuth.git
